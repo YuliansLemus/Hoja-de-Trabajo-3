@@ -1,0 +1,8 @@
+Juan Carlos 18 1 1 300.625
+Jose Martinez 35 2 2 360.5
+Marcos Perez 50 2 3 330
+Tito Salazar 19 1 2 412.5
+Mynor Aguirre 25 2 2 450.625
+Maria Marcos 56 2 3 330
+Cristian Jose 20 1 3 338.125
+Mirna Jose 40 1 3 270.5
